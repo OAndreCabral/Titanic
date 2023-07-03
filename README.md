@@ -1,6 +1,6 @@
 Trabalho Titanic Analise de Dados e Tomada de Decisão
 
-Trabalho do Desafio do Titanic
+Trabalho do Desafio do Titanic /
 College Activity of Titanic Challenge
 
 Previsão alcançada no Kaggler: 0.7703 / 77,03%
