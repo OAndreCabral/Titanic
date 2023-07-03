@@ -1,4 +1,4 @@
-Trabalho Titanic Analise de Dados e Tomada de Decisão.
+Analise de Dados e Tomada de Decisão.
 
 Trabalho do Desafio do Titanic.
 College Activity of Titanic Challenge.
