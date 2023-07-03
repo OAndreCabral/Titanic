@@ -7,7 +7,7 @@ Previsão alcançada no Kaggler: 0.7703 / 77,03%.
 
 Percentual got on Kaggler: 77,03%.
 
-![Kaggler](https://github.com/OAndreCabral/Titanic/assets/131211736/30d9123d-2962-4915-a67c-8a7a67c3cd2c)
+![image](https://github.com/OAndreCabral/Titanic/assets/131211736/9d400edc-7a33-4210-b129-5bf7fdb5ae0a)
 
 Se você for usar o colab, seguir normalmente com o codigo, se for usar o jupyter, fazer as instalações das bibliotecas necessarias abaixo.
 
