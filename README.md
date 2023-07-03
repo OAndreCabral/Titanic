@@ -4,7 +4,7 @@ Trabalho do Desafio do Titanic /
 College Activity of Titanic Challenge
 
 Previsão alcançada no Kaggler: 0.7703 / 77,03%
-Percentual got on Kaggler: 77,03%
+\nPercentual got on Kaggler: 77,03%
 ![Kaggler](https://github.com/OAndreCabral/Titanic/assets/131211736/30d9123d-2962-4915-a67c-8a7a67c3cd2c)
 
 Se você for usar o colab, seguir normalmente com o codigo, se for usar o jupyter, fazer as instalações das bibliotecas necessarias abaixo.
