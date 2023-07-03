@@ -1,4 +1,3 @@
-![image](https://github.com/OAndreCabral/Titanic/assets/131211736/f7b894e8-9a4f-4828-b984-a711cf901904)# Titanic
 Trabalho Titanic Analise de Dados e Tomada de Decisão
 
 Trabalho do Desafio do Titanic
